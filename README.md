@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kim-H7
 - 👀 I’m interested in games, rabbits and chocolate
-- 🌱 I’m currently learning to programm back-end and front-end
+- 🌱 I’m currently learning back-end and front-end
 - 💞️ I’m looking to collaborate on (closed)
 - 📫 How to reach me (closed)
 
